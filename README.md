@@ -30,7 +30,7 @@ I'm @techiegarvit (Garvit Shah), a first-year B.Tech student at Galgotias Univer
 
 🌐 Excited about the prospect of attending tech events, connecting with fellow enthusiasts, and contributing to the vibrant tech community. If you think my skills align with your event, I'd love to be a part of it!
 
-Let's code the future together! 🌈
+Let's code the future together! 
 
 <!---
 garvitshah0205/garvitshah0205 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
